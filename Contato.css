@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+    body {
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background: #e6e6e6;
+    }
+
+    #area-cabecalho {
+    background-color: cadetblue;
+
+    padding: 20px;
+    text-align: center;
+    }
+    #box {
+        background-color: blanchedalmond;
+
+    }
+    #Contato {
+        background-color: antiquewhite;
+        padding: 10px;
+    }
